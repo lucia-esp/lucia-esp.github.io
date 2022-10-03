@@ -1,0 +1,37 @@
+.CaO {
+    text-align: center;
+}
+
+.o-img {
+    filter: brightness(55%);
+}
+
+.card-lugar {
+    background-color: #34393f;
+    color: white;
+}
+
+.altura  {
+    height: 700px;
+}
+
+#colorb1 {
+    background-color: #27a844;
+    border-color: #27a844;
+}
+
+.colorbg {
+    background-color: #353a40;
+}
+
+#colorb2 {
+    background-color: #96c93e;
+    border-color: #96c93e;
+}
+
+
+footer {
+    background: rgb(28,56,70);
+    background: linear-gradient(90deg, rgba(28,56,70,1) 0%, rgba(28,63,82,1) 29%, rgba(29,67,88,1) 52%, rgba(30,79,109,1) 100%);
+}
+
